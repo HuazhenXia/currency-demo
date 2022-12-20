@@ -1,0 +1,18 @@
+.currency-table {
+  width: 600px;
+}
+
+.currency-table th{
+  background-color: #4c7bb5;
+  height: 32px;
+  color: #fff;
+}
+
+.currency-table td {
+  text-align: center;
+  height: 24px;
+}
+
+.currency-table tr:nth-child(2n+1) {
+  background-color: #ddd;
+}

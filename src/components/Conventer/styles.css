@@ -1,0 +1,17 @@
+.currency-conventer {
+  margin: 20px 0;
+  width: 600px;
+  font-size: 18px;
+  background-color: #eee;
+  padding: 18px;
+  box-sizing: border-box;
+}
+
+.title {
+  font-size: 24px;
+}
+
+.row {
+  width: 600px;
+  margin: 10px 0;
+}
